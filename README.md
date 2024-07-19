@@ -28,4 +28,4 @@ As a trained researcher, peer-educator and customer service professional, I am c
 * Git and GitHub
 
 **📫Contact Me**
-I am keen to hear from employers about apprenticeships, internships and junior Software Engineering roles. Also open to collaborations. You can email me at judeprinceonuh@gmail.com 😄
+I am keen to hear from employers about apprenticeships, internships and junior Data Analyst roles. Also open to collaborations. You can email me at judeprinceonuh@gmail.com 😄
