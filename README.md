@@ -16,16 +16,12 @@ As a trained researcher, peer-educator and customer service professional, I am c
 * Debug and troubleshoot issues, and perform code reviews.
 * Identify and implement opportunities for code optimization and performance improvement, ensuring efficient use of system resources.
 
-**🌱Tech Stack**
-* Python
-* Matplotlib
-* Seaborn
-* Pandas
-* Scikit-learn
-* MySQL
-* Ms Excel
-* Power BI
+**🌱 Tech Stack**
+* Python                                * Matplotlib
+* Seaborn                               * Pandas
+* Scikit-learn                          * MySQL
+* Ms Excel                              * Power BI
 * Git and GitHub
 
-**📫Contact Me**
+**📫 Contact Me**
 I am keen to hear from employers about apprenticeships, internships and junior Data Analyst roles. Also open to collaborations. You can email me at judeprinceonuh@gmail.com 😄
