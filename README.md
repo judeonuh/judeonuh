@@ -1,4 +1,4 @@
-! [Data Science gif] (https://github.com/judeonuh/judeonuh/blob/main/data%20science%20gif.gif?raw=true)
+! (https://github.com/judeonuh/judeonuh/blob/main/data%20science%20gif.gif)
 
 # Hi there. Welcome to my GitHub Profile 👋
 
