@@ -7,7 +7,7 @@ A passionate and aspiring data analyst with a solid foundation in Python program
 
 I've tackled projects ranging from sales data analysis to customer segmentation, creating solutions that enhance efficiency and growth. My goal is to leverage my analytical expertise and programming skills to develop groundbreaking programs that harness the full potential of data. Let's connect and explore how we can turn data into impactful solutions together!
 
-As a trained researcher, peer-educator and customer service professional, I am critical, analytical and possess exceptional communication and problem-solving skills for resolving client issues. ✨
+Furthermore, as a trained researcher, peer-educator and customer service professional, I am critical, analytical and possess exceptional communication and problem-solving skills for resolving client issues. ✨
 
 ## 🖥️ Work Experience
 ### Software Engineering | HyperionDev Bootcamp |   Dec, 2023 - Mar, 2024
