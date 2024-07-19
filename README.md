@@ -17,10 +17,14 @@ As a trained researcher, peer-educator and customer service professional, I am c
 * Identify and implement opportunities for code optimization and performance improvement, ensuring efficient use of system resources.
 
 **🌱 Tech Stack**
-* Python                                * Matplotlib
-* Seaborn                               * Pandas
-* Scikit-learn                          * MySQL
-* Ms Excel                              * Power BI
+* Python
+* Matplotlib
+* Seaborn
+* Pandas
+* Scikit-learn
+* MySQL
+* Ms Excel
+* Power BI
 * Git and GitHub
 
 **📫 Contact Me**
