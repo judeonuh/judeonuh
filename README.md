@@ -10,18 +10,19 @@ I've tackled projects ranging from sales data analysis to customer segmentation,
 Furthermore, as a trained researcher, peer-educator and customer service professional, I am critical, analytical and possess exceptional communication and problem-solving skills for resolving client issues. ✨
 
 ## 🖥️ Work Experience
-### Software Engineering | HyperionDev Bootcamp |   Dec, 2023 - Mar, 2024
+### Software Engineering Intern | HyperionDev Bootcamp |   Dec, 2023 - Mar, 2024
 * Write clean, maintainable and efficient codes in Python, maintaining comprehensive documentation for codes and software architecture.
 * Use version control systems  (e.g. Git) to manage/ track changes in code.
 * Debug and troubleshoot issues, and perform code reviews.
 * Identify and implement opportunities for code optimization and performance improvement, ensuring efficient use of system resources.
 
+## 📝 Education
+* Data Science bootcamp         | Lux Tech Academy & DSE Africa      | July 2024 - Till Date
+* Data Science bootcamp         | CoHarvesters, UK                   | July 2024 - Till Date
+* Software Engineering bootcamp | HyperionDev & CoGrammar            | Dec 2023 - March 2024
+
 **🌱 Tech Stack**
 * Python
-* Matplotlib
-* Seaborn
-* Pandas
-* Scikit-learn
 * MySQL
 * Ms Excel
 * Power BI
