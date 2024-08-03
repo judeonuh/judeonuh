@@ -28,5 +28,8 @@ Furthermore, as a trained researcher, peer-educator and customer service profess
 * Power BI
 * Git and GitHub
 
+![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judeonuh&theme=chartreuse-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judeonuh&layout=compact&theme=chartreuse-dark)](https://github.com/Judeonuh/github-readme-stats)
+
 **📫 Contact Me**
 I am keen to hear from employers about apprenticeships, internships and junior Data Analyst roles. Also open to collaborations. You can email me at judeprinceonuh@gmail.com 😄
