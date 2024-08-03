@@ -31,5 +31,10 @@ Furthermore, as a trained researcher, peer-educator and customer service profess
 ![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judeonuh&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judeonuh&layout=compact&theme=chartreuse-dark)](https://github.com/Judeonuh/github-readme-stats)
 
-**📫 Contact Me**
+ Check out my technical articles on:  <a href="https://medium.com/@judeprinceonuh" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium logo" width="30" height="20">
+</a>
+
+
+## **📫 Contact Me**
 I am keen to hear from employers about apprenticeships, internships and junior Data Analyst roles. Also open to collaborations. You can email me at judeprinceonuh@gmail.com 😄
