@@ -20,8 +20,8 @@ ___
 
 ## 📚 Education
 ___
-* Data Science bootcamp         | CoHarvesters, UK                   | July 2024 - Till Date
-* Software Engineering bootcamp | HyperionDev & CoGrammar            | Dec 2023 - March 2024
+* Data Science        || CHM Tech Global, UK Bootcamp                  || July 2024 - Till Date
+* Software Engineering  || HyperionDev Bootcamp         || Dec 2023 - March 2024
 
 ## **🌱 Tech Stack**
 ___
