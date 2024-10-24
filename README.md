@@ -4,21 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Judeonuh&label=Profile%20views&color=0e75b6&style=flat" alt="JudeOnuh views" /> </p>
 
 ## 📝 About Me ✨
-A passionate and aspiring data analyst with a solid foundation in Python programming. My passion lies in transforming raw data into insightful, actionable intelligence that drives innovation in the healthcare and financial sector. With skills in data manipulation, visualization, and statistical analysis, I aim to uncover hidden patterns and trends that can inform strategic decisions. 
+Passionate about transforming complex datasets into actionable insights 📈 that drive decisions, strategies, and innovations in the healthcare and financial sector. My experience, which spans across healthcare, education, logistics and e-commerce, allows me to bring a versatile and adaptive approach to problem-solving. My proficiency in data cleaning, analysis, visualisation, and predictive modelling is complemented by my ability to communicate findings clearly to both technical and non-technical stakeholders.
 
-I've tackled projects ranging from sales data analysis to customer segmentation, creating solutions that enhance efficiency and growth. My goal is to leverage my analytical expertise and programming skills to develop groundbreaking programs that harness the full potential of data. Let's connect and explore how we can turn data into impactful solutions together!
+Furthermore, as a trained researcher, peer-educator and customer service professional, I am critical, analytical and possess exceptional communication and problem-solving skills for resolving client issues.
 
-Furthermore, as a trained researcher, peer-educator and customer service professional, I am critical, analytical and possess exceptional communication and problem-solving skills for resolving client issues. ✨
+Outside work, I love to enjoy good jazz music 🎷 and stay abreast with recent advancements in data science and analytics. ✨
 
 ## 🖥️ Work Experience
-### Software Engineering Intern | HyperionDev Bootcamp |   Dec, 2023 - Mar, 2024
-* Write clean, maintainable and efficient codes in Python, maintaining comprehensive documentation for codes and software architecture.
-* Use version control systems  (e.g. Git) to manage/ track changes in code.
-* Debug and troubleshoot issues, and perform code reviews.
-* Identify and implement opportunities for code optimization and performance improvement, ensuring efficient use of system resources.
+### Data Science Trainee | CHM Tech Bootcamp |   July, 2024 - Current
+* Automated data cleaning using Python, reducing time spent on manual data processing by 30%, allowing the team to focus on insights and decision-making.
+* Created advanced financial models in Excel, automating data entry and visualisation, which enhanced workflow efficiency by 25% and reduced manual errors in financial reporting.
+* Created interactive dashboards that provided real-time performance insights, allowing managers to track key metrics at a glance, leading to faster response times to market changes by 10%.
 
-## 📝 Education
-* Data Science bootcamp         | Lux Tech Academy & DSE Africa      | July 2024 - Till Date
+## 📚 Education
 * Data Science bootcamp         | CoHarvesters, UK                   | July 2024 - Till Date
 * Software Engineering bootcamp | HyperionDev & CoGrammar            | Dec 2023 - March 2024
 
@@ -27,6 +25,7 @@ Furthermore, as a trained researcher, peer-educator and customer service profess
 
 * Python
 * MySQL
+* PostgreSQL
 * Ms Excel
 * Power BI
 * Git and GitHub
@@ -35,10 +34,13 @@ Furthermore, as a trained researcher, peer-educator and customer service profess
 <p align="left">
 <a href="https://medium.com/@judeprinceonuh" target="blank">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium logo" width="40" height="30">
-</a>
+</a> Medium
+</p>
+
+<p>
 <a href="https://dev.to/jude_onuh" target="blank">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev logo" width="40" height="30">
-</a>
+</a> Dev
 </p>
 
 ## 📫 Let's connect on <a href="https://www.linkedin.com/in/jude-onuh/" target="blank">LinkedIn</a>
