@@ -20,8 +20,13 @@ ___
 
 ## 📚 Education
 ___
-* Data Science        || CHM Tech Global, UK Bootcamp                  || July 2024 - Till Date
-* Software Engineering  || HyperionDev Bootcamp         || Dec 2023 - March 2024
+| PROGRAM | PROVIDER/UNIVERSITY | PERIOD |
+|---------|-----------------|--------|
+Data Science | CHM Tech Global, UK | July 2024 - Till Date
+Software Engineering | HyperionDev, UK | Dec 2023 - March 2024
+MSc. Molecular Bioscience (Biotechnology) | University of Bath, UK | Oct 2021 - Oct 2022
+MSc. Environmental Microbiology | University of Ibadan, Nigeria | Jan 2018 - Feb 2021
+BSc. Microbiology | Federal University Dutsinma, Nigeria | Dec 2012 - Oct 2016
 
 ## **🌱 Tech Stack**
 ___
