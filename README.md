@@ -54,4 +54,4 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judeonuh&layout=compact&theme=chartreuse-dark)](https://github.com/Judeonuh/github-readme-stats)
 
 
-**<p align="center">I am open to collaborations, and keen to learn about apprenticeship, internship and entry Data Analyst opportunities. 😄</p>**
+**<p align="center">I am open to collaborations, and keen to learn about apprenticeship, internship and entry level Data Analyst opportunities. 😄</p>**
