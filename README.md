@@ -11,36 +11,56 @@ Furthermore, as a trained researcher, peer-educator and customer service profess
 
 Outside work, I love to enjoy good jazz music 🎷 and stay abreast with recent advancements in data science and analytics. ✨
 
-## 🖥️ Work Experience
 ___
-### Data Science Trainee | CHM Tech Bootcamp |   July, 2024 - Current
+## 🖥️ Work Experience
+
+### Project Lead & Data Analyst Associate Intern | Excelerate |   Apr 2025 - May 2025
+* Led a high-performing team to exceed project goals by aligning team objectives with strategic timelines, resulting in consistent on-time delivery of key milestones.
+* Directed cross-functional collaboration across departments, streamlining workflows and increasing deadline adherence by 20%, while upholding quality and scope standards.
+* Drove project success through proactive issue resolution and strategic execution, achieving 100% on-time project completion rate within budget constraints.
+
+### Data Science Trainee | CHM Global Tech Institute, UK |   July 2024 - Dec 2024
 * Automated data cleaning using Python, reducing time spent on manual data processing by 30%, allowing the team to focus on insights and decision-making.
 * Created advanced financial models in Excel, automating data entry and visualisation, which enhanced workflow efficiency by 25% and reduced manual errors in financial reporting.
 * Created interactive dashboards that provided real-time performance insights, allowing managers to track key metrics at a glance, leading to faster response times to market changes by 10%.
 
-## 📚 Education
 ___
-| PROGRAM | PROVIDER/UNIVERSITY | PERIOD |
-|---------|-----------------|--------|
-Data Science | CHM Tech Global, UK | July 2024 - Till Date
-Software Engineering | HyperionDev, UK | Dec 2023 - March 2024
-MSc. Molecular Bioscience (Biotechnology) | University of Bath, UK | Oct 2021 - Oct 2022
-MSc. Environmental Microbiology | University of Ibadan, Nigeria | Jan 2018 - Feb 2021
-BSc. Microbiology | Federal University Dutsinma, Nigeria | Dec 2012 - Oct 2016
+## 📚 Data Analysis/ Science Training
 
-## **🌱 Tech Stack**
+| COURSE/ PROGRAM | QUALIFICATION | PROVIDER | PERIOD |
+|---------|---------|-----------------|--------|
+Power Up Program | Certificate | Microsoft | June 2025 - Present
+Data Analysis | Certificate | Dive Africa | Apr 2025 - June 2025
+Data Analysis | Certificate | Datakliq | Jan 2025 - April 2025
+Data Science | Certificate | CHM Global Tech Institute, UK | July 2024 - Dec 2024
+Software Engineering | Certificate | HyperionDev, UK | Dec 2023 - March 2024
+
 ___
+## 📚 Education
+
+| PROGRAM | QUALIFICATION | UNIVERSITY | PERIOD |
+|---------|---------|-----------------|--------|
+Molecular Bioscience (Biotechnology) | Masters (MSc.) | University of Bath, UK | Oct 2021 - Oct 2022
+Environmental Microbiology | Masters (MSc.) | University of Ibadan, Nigeria | Jan 2018 - Feb 2021
+Microbiology | Bachelors (BSc.) | Federal University Dutsinma, Nigeria | Dec 2012 - Oct 2016
+
+___
+## **🌱 Tech Stack**
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 * Python
-* MySQL
-* PostgreSQL
+* SQL
+  - MySQL
+  - PostgreSQL
+  - SQL Server Management Studio
 * Ms Excel
 * Power BI
 * Git and GitHub
 
-## Check out my technical articles:
 ___
+## Check out my technical articles:
+
 <p align="left">
 <a href="https://medium.com/@judeprinceonuh" target="blank">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium logo" width="40" height="30">
