@@ -30,6 +30,7 @@ ___
 | COURSE/ PROGRAM | QUALIFICATION | PROVIDER | PERIOD |
 |---------|---------|-----------------|--------|
 Power Up Program | Certificate | Microsoft | June 2025 - Present
+Data Analysis | Certificate | Incubator Hub - DSA | April 2025 - Present
 Data Analysis | Certificate | Dive Africa | Apr 2025 - June 2025
 Data Analysis | Certificate | Datakliq | Jan 2025 - April 2025
 Data Science | Certificate | CHM Global Tech Institute, UK | July 2024 - Dec 2024
