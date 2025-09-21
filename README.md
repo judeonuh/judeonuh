@@ -48,7 +48,7 @@ Microbiology | Bachelors (BSc.) | Federal University Dutsinma, Nigeria | Dec 201
 ___
 ## **🌱 Tech Stack**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 * Python
 * SQL
