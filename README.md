@@ -14,6 +14,12 @@ Outside work, I love to enjoy good jazz music 🎷 and stay abreast with recent 
 ___
 ## 🖥️ Work Experience
 
+### Chief Data Officer | GrowMetra LTD |   May 2025 - Present
+* Develop and implement the company’s data strategy aligned with its business and agricultural objectives.
+* Design and oversee the development of scalable data platforms for collecting, storing, and analysing data.
+* Translate raw logistics, agricultural and business data into actionable insights for farmers, agronomists, and stakeholders.
+* Position the startup as a leader in responsible, technology-driven agriculture.
+
 ### Project Lead & Data Analyst Associate Intern | Excelerate |   Apr 2025 - May 2025
 * Led a high-performing team to exceed project goals by aligning team objectives with strategic timelines, resulting in consistent on-time delivery of key milestones.
 * Directed cross-functional collaboration across departments, streamlining workflows and increasing deadline adherence by 20%, while upholding quality and scope standards.
@@ -29,8 +35,8 @@ ___
 
 | COURSE/ PROGRAM | QUALIFICATION | PROVIDER | PERIOD |
 |---------|---------|-----------------|--------|
-Power Up Program | Certificate | Microsoft | June 2025 - Present
-Data Analysis | Certificate | Incubator Hub - DSA | April 2025 - Present
+Power Up Program | Certificate | Microsoft | June 2025 - Aug 2025
+Data Analysis | Certificate | Incubator Hub - DSA | April 2025 - Oct - 2025
 Data Analysis | Certificate | Dive Africa | Apr 2025 - June 2025
 Data Analysis | Certificate | Datakliq | Jan 2025 - April 2025
 Data Science | Certificate | CHM Global Tech Institute, UK | July 2024 - Dec 2024
@@ -80,4 +86,4 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judeonuh&layout=compact&theme=chartreuse-dark)](https://github.com/Judeonuh/github-readme-stats)
 
 
-**<p align="center">I am open to collaborations, and keen to learn about apprenticeship, internship and entry level Data Analyst opportunities. 😄</p>**
+**<p align="center">I am open to collaborations, apprenticeships, internships and Data-related opportunities. 😄</p>**
