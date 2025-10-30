@@ -35,6 +35,7 @@ ___
 
 | COURSE/ PROGRAM | QUALIFICATION | PROVIDER | PERIOD |
 |---------|---------|-----------------|--------|
+Data Science | Certificate | Awibi MedTech | Aug 2025 - Nov 2025
 Power Up Program | Certificate | Microsoft | June 2025 - Aug 2025
 Data Analysis | Certificate | Incubator Hub - DSA | April 2025 - Oct - 2025
 Data Analysis | Certificate | Dive Africa | Apr 2025 - June 2025
