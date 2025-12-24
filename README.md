@@ -27,6 +27,16 @@ Outside work, I love to enjoy good jazz music 🎷 and stay abreast with recent 
 * Power BI
 * Git and GitHub
 ___
+
+## My Projects
+* [Business Intelligence Projects (PowerBI)](https://github.com/judeonuh/Business-Intelligence-Projects.git)
+* [Microsoft Excel Projects](https://github.com/judeonuh/MS-Excel-Projects.git)
+* [SQL Projects](https://github.com/judeonuh/SQL-Projects.git)
+* [Python Projects](https://github.com/judeonuh/Python-Projects.git)
+* [End-to-End Analysis]()
+
+___
+
 ## 🖥️ Work Experience
 
 ### Chief Data Officer | GrowMetra LTD |   May 2025 - Present
