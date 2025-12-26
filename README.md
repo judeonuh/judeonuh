@@ -34,6 +34,7 @@ ___
 * [SQL Projects](https://github.com/judeonuh/SQL-Projects.git)
 * [Python Projects](https://github.com/judeonuh/Python-Projects.git)
 * [End-to-End Analysis]()
+* [Curated Dashboards](https://judeonuh.carrd.co/)
 
 ___
 
