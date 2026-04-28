@@ -36,7 +36,11 @@ ___
 * [Python Projects](https://github.com/judeonuh/Python-Projects.git)
 * [End-to-End Analysis]()
 
+___
 
+## Data Analysis Awards
+* [Data Visualisation Award Certificates](https://github.com/judeonuh/Data-Visualisation-Awards.git)
+ 
 ___
 
 ## 🖥️ Work Experience
