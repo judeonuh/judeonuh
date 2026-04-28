@@ -10,7 +10,7 @@ Passionate about transforming complex datasets into actionable insights 📈 tha
 
 Furthermore, as a trained researcher, peer-educator and customer service professional, I am critical, analytical and possess exceptional communication and problem-solving skills for resolving client issues.
 
-Outside work, I play enjoy good jazz music 🎹🎷 and stay abreast with recent advancements in data science and analytics. ✨
+Outside work, I play and enjoy good jazz music 🎹🎷, and stay abreast with recent advancements in data science and analytics. ✨
 
 ---
 
