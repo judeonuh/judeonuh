@@ -29,12 +29,13 @@ Outside work, I love to enjoy good jazz music 🎷 and stay abreast with recent 
 ___
 
 ## My Projects
+* [Data Visualisation Portfolio (PowerBI Dashboards)](https://judeonuh.carrd.co/)
 * [Business Intelligence Projects (PowerBI)](https://github.com/judeonuh/Business-Intelligence-Projects.git)
 * [Microsoft Excel Projects](https://github.com/judeonuh/MS-Excel-Projects.git)
 * [SQL Projects](https://github.com/judeonuh/SQL-Projects.git)
 * [Python Projects](https://github.com/judeonuh/Python-Projects.git)
 * [End-to-End Analysis]()
-* [Portfolio (Visuals/Dashboards)](https://judeonuh.carrd.co/)
+
 
 ___
 
