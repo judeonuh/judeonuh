@@ -77,6 +77,13 @@ Molecular Bioscience (Biotechnology) | Masters (MSc.) | University of Bath, UK |
 Environmental Microbiology | Masters (MSc.) | University of Ibadan, Nigeria | Jan 2018 - Feb 2021
 Microbiology | Bachelors (BSc.) | Federal University Dutsinma, Nigeria | Dec 2012 - Oct 2016
 ___
+## 📚 Academic Publications
+* Adesoji A.T., **Onuh, J.P**., Liadi, A.H., Palang, I.P. Prevalence of multi-drug resistant _Pseudomonas aeruginosa_ isolated from selected residential sewages in Dutsin-Ma, Katsina State, Nigeria. To appear in The Journal of Public Health in Africa
+* Adesoji A.T., **Onuh, J.P.**, Bagu, J., SA, I. (2019). Prevalence and antibiogram study of _Staphylococcus aureus_ isolated from clinical and selected drinking water of Dutsin-Ma, Katsina State, Nigeria. Afri. Health Sci. 19(1); 1385-1392.
+* Adesoji, A.T., **Onuh, J.P.**, Musa, A.O. and Akinrosoye, P.F. (2019). Bacteriological quality and antibiogram study of bacteria from ‘Suya’ and Smoked Fish (_Clarias gariepinus_) in Dutsin-Ma, Katsina State, Nigeria. The Pan African Medical Journal 33:219.
+* Adesoji, A.T., **Onuh, J.P.** and Olufemi, L.O. (2016). Bacteria Resistance to Cephalosporins and its Implication to Public Health. J. Bacteriol.  Mycol. 3(1): 1021.
+
+___
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/jude-onuh/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
